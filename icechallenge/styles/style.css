@@ -1,0 +1,62 @@
+body{
+    background-color: pink;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+
+#word{
+    width: 250px;
+    margin: auto;
+}
+
+#word:hover{
+    color: black;
+}
+
+.moto{
+    text-align: center;
+    color: white;
+}
+
+.name{
+    text-align: center;
+    color: white;
+}
+
+.orderedlist{
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+.partoflist{
+    text-align: left;
+}
+
+.image{
+    text-align: center;
+}
+
+.rmnelson{
+    width: 200px;
+}
+
+.quote{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+
+.namebottom{
+    text-align: center;
+    
+}
+
+.churchbottom2{
+    width: 320px;
+    text-align: center;
+    margin: 0 auto;
+}
