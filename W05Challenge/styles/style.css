@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    max-width: fit-content;
+    background-color: gray;
+}
+
+.circles img{
+    max-width: 100%;
+}
+
+.banner{
+    background-color: grey;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+.banner img{
+    max-width: 200px;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 10px solid darkgray;
+}
+
+
