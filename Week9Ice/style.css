@@ -1,0 +1,20 @@
+body {
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
+.top{
+    height: 100%;
+}
+
+.bottom{
+
+}
+  
