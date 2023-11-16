@@ -304,3 +304,18 @@ footer .social img{
     }
 }
 
+.grid{
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.grid img{
+    margin: auto;
+}
+
+.grid h3{
+    text-align: center;
+    margin: auto;
+}
+
+
