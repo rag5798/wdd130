@@ -190,7 +190,6 @@ nav a:hover{
 .msg{
     color: #396E94;
     background-color: #bee9e8;
-    background-color: opacity 0.6;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
